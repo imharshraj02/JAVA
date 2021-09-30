@@ -34,11 +34,11 @@ public class Cylinder
 	}
 	void printVolume()
 	{
-	 System.out.println("Volume of Cube is "+side*side*side);
+	 System.out.println("Volume of Cube is ="+side*side*side);
 	}
 	void printArea()
 	{
-	 System.out.println("Surface area of Cube is "+6*side*side);
+	 System.out.println("Surface area of Cube is ="+6*side*side);
 	}
 	}
 
