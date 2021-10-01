@@ -24,7 +24,6 @@ public class Cylinder
 	b.printArea();
 	}
 	}
-
 	class Cube
 	{
 	 double side;	   
@@ -41,6 +40,3 @@ public class Cylinder
 	 System.out.println("Surface area of Cube is ="+6*side*side);
 	}
 	}
-
-
-
